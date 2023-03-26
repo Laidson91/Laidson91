@@ -4,11 +4,9 @@
     
      🔥 Desenvolvedor Web Full-Stack Jr
   
-     📚 Estou cursando Full Stack na Capgemini. Fiz alguns projetos individuais.
-
-         
-     👩🏾‍🎓 Entre minhas softskills destacam-se: comunicação, foco em resultados, humildade, senso de justiça, assiduidade e facilidade no trabalho em equipe.Sou uma pessoa determinada, empenhada, comprometida, fácil aprendizado e de rápida adaptação, entusiasta para aprender e sei lidar com criticas construtivas.
-    
+     📚 Estou cursando Full Stack na Capgemini!
+     
+     
   </p>
 
  ## [💻 Veja Meu Portfolio Clicando aqui](https://laidson91.github.io/)                                                        
